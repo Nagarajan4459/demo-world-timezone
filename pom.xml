@@ -33,11 +33,11 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com/</uri>
 						<muleVersion>4.7.0</muleVersion>
-						<username>FinService</username>
+						<username>FinService1</username>
 						<password>RedFlag(123)</password>
 						<environment>Sandbox</environment>
 						<applicationName>demo-world-timezone</applicationName>
-						<businessGroup>own</businessGroup>
+						<businessGroup>FinService1</businessGroup>
 						<workerType>micro</workerType>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
